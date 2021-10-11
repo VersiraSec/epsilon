@@ -7,7 +7,7 @@ namespace Home {
 
 AppCell::AppCell() :
   HighlightCell(),
-  m_messageNameView(KDFont::SmallFont, (I18n::Message)0, 0.5f, 0.5f, KDColorBlack, KDColorWhite),
+  m_messageNameView(KDFont::SmallFont, (I18n::Message)0, 0.5f, 0.5f, KDColorGreen, KDColorGrey),
   m_image(0, 0, nullptr, 0),
   m_pointerNameView(KDFont::SmallFont, nullptr, 0.5f, 0.5f, KDColorBlack, KDColorWhite),
   m_visible(true)

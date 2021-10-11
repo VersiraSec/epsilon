@@ -2,6 +2,8 @@
 
 [![Build Status](https://github.com/numworks/epsilon/workflows/Continuous%20integration/badge.svg)](https://github.com/numworks/epsilon/actions?workflow=Continuous+integration)
 
+**This is a modified version of epsilon for numworks calculator**
+
 Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
 
 You can try Epsilon straight from your browser in the [online simulator](https://www.numworks.com/simulator/).

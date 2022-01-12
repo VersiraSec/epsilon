@@ -1,4 +1,4 @@
-<img src="docs/epsilon.svg?sanitize=true" alt="NumWorks Epsilon logo" height="70" >
+<img src="https://i.imgur.com/nV30FYa.jpg" alt="CFW Banner" height="70" >
 
 [![Build Status](https://github.com/numworks/epsilon/workflows/Continuous%20integration/badge.svg)](https://github.com/numworks/epsilon/actions?workflow=Continuous+integration)
 

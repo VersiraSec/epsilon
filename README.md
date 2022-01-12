@@ -1,17 +1,17 @@
-<img src="https://i.imgur.com/nV30FYa.jpg" alt="CFW Banner" height="250" >
-
 [![Build Status](https://github.com/numworks/epsilon/workflows/Continuous%20integration/badge.svg)](https://github.com/numworks/epsilon/actions?workflow=Continuous+integration)
 
-**This is a modified version of epsilon for numworks calculator**
+<img src="https://i.imgur.com/nV30FYa.jpg" alt="CFW Banner" height="250" >
 
-*Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
+**This is a modified version of Epsilon for Numworks calculators**
+
+*Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.*
 
 *You can try Epsilon straight from your browser in the [online simulator](https://www.numworks.com/simulator/).*
 
 ## Diving in
 
-We highly recommend you start by reading the [online documentation](https://www.numworks.com/resources/engineering/software/) for this project. You'll learn how to install the
-[SDK](https://www.numworks.com/resources/engineering/software/build/) *and about the overall architecture of the Epsilon.*
+*We highly recommend you start by reading the [online documentation](https://www.numworks.com/resources/engineering/software/) for this project. You'll learn how to install the
+[SDK](https://www.numworks.com/resources/engineering/software/build/) and about the overall architecture of the Epsilon.*
 
 ## Contributing
 

@@ -4,7 +4,7 @@
 
 **This is a modified version of epsilon for numworks calculator**
 
-Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
+*Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
 
 You can try Epsilon straight from your browser in the [online simulator](https://www.numworks.com/simulator/).
 
@@ -20,4 +20,4 @@ We welcome contributions. For smaller changes just open a pull request straight 
 
 ## Copyright
 
-All rights reserved. NumWorks is a registered trademark.
+All rights reserved. NumWorks is a registered trademark.*
